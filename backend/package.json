@@ -1,0 +1,19 @@
+{
+  "name": "itz-egypt-backend",
+  "version": "0.0.0",
+  "description": "A website for the Great Arab Republic of Egypt",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelrahmanwalidhassan/ItzEgypt.git"
+  },
+  "author": "Abdelrahmanwalidhassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdelrahmanwalidhassan/ItzEgypt/issues"
+  },
+  "homepage": "https://github.com/Abdelrahmanwalidhassan/ItzEgypt#readme"
+}
